@@ -1,0 +1,3 @@
+masses on the spring, and they both take the same time to complete one oscillation, we can define them as having the same mass.
+Since I started this chapter by highlighting the relationship between conservation laws and symmetries, you're probably wondering what symmetry is related to conservation of mass. I'll come back to that at the end of the chapter.
+When you learn about a new physical quantity, such as mass, you need to know what units are used to measure it. This will lead us to a brief digression on the metric system, after which we'll come back to physics.
